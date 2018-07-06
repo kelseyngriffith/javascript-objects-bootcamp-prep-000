@@ -1,3 +1,3 @@
 const playlist = {
-  Maroon 5: 'Animals'
+  Adele: 'Someone Like You'
 }
