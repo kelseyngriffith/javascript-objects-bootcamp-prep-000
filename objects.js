@@ -1,8 +1,8 @@
 const playlist = {
-  Adele: 'Someone Like You'
-};
-function updatePlaylist(playlist, artistName, songTitle) {
   playlist['Slowdive'] = 'Alison'
   playlist['My Bloody Valentine'] = 'Sometimes'
+};
+function updatePlaylist(playlist, artistName, songTitle) {
+  
   return playlist;
 }
